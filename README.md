@@ -3,10 +3,10 @@
 # Introduction
 안녕하세요 반갑습니다.
 
-#School
+# School
 영남대학교 컴퓨터공학과 22311943
 
-#Email
+# Email
 doyoungjae@naver.com
 
 <!--
